@@ -1,0 +1,8 @@
+pkg/*
+!pkg/.gitkeep
+bin/*
+!bin/.gitkeep
+src/*
+!src/proxy
+
+.idea
