@@ -4,5 +4,7 @@ bin/*
 !bin/.gitkeep
 src/*
 !src/proxy
+!src/echo
+!src/stress_test
 
 .idea
